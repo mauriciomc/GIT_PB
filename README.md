@@ -1,2 +1,2 @@
 # GIT_PB
-Picoblaze
+Picoblaze 8-bit CPU developed from ug129.pdf
